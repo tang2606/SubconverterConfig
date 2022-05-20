@@ -1,0 +1,9 @@
+.idea/*
+*.xml
+.python-version
+.vscode/*
+__pycache__/*
+tts.py
+storage/*
+.env
+Test.py
