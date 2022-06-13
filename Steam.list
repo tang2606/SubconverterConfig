@@ -1,9 +1,9 @@
 # NAME: Steam
-HOST-SUFFIX,cdn.cloudflare.steamstatic.com
-HOST-SUFFIX,store.steampowered.com
-HOST-SUFFIX,store.cloudflare.steamstatic.com
-HOST-SUFFIX,steambroadcast.akamaized.net
-HOST-SUFFIX,help.steampowered.com
-HOST-SUFFIX,steamcommunity.com
-HOST-SUFFIX,avatars.cloudflare.steamstatic.com
-HOST-SUFFIX,cdn.akamai.steamstatic.com
+DOMAIN-SUFFIX,cdn.cloudflare.steamstatic.com
+DOMAIN-SUFFIX,store.steampowered.com
+DOMAIN-SUFFIX,store.cloudflare.steamstatic.com
+DOMAIN-SUFFIX,steambroadcast.akamaized.net
+DOMAIN-SUFFIX,help.steampowered.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,avatars.cloudflare.steamstatic.com
+DOMAIN-SUFFIX,cdn.akamai.steamstatic.com
