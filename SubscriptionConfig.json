@@ -1,0 +1,4 @@
+{
+    "Ytoo_Clashr_Rules.yaml": "http://127.0.0.1:25500/sub?target=clash&config=config%2Fexample_external_config.ini&emoji=true&udp=true&new_name=true&filename=YToo_Trojan.yaml&url=https%3A%2F%2Fapi.ytoo.xyz%2Fosubscribe.php%3Fsid%3D5365%26token%3DkrhMhDUFxl5b%26sip002%3D1",
+    "Ytoo_Surfboard.conf": "http://127.0.0.1:25500/sub?target=surfboard&config=config%2Fexample_external_config.ini&emoji=true&udp=true&new_name=true&filename=Ytoo_Surfboard.conf&url=https%3A%2F%2Fapi.ytoo.xyz%2Fosubscribe.php%3Fsid%3D5365%26token%3DkrhMhDUFxl5b%26sip002%3D1"
+}
