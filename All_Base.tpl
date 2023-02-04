@@ -6,7 +6,7 @@ allow-lan: {{ default(global.clash.allow_lan, "true") }}
 mode: Rule
 log-level: {{ default(global.clash.log_level, "info") }}
 external-controller: :9090
-external-ui: {{ default(global.clash.ui), "/root/.config/clash/ui" }}
+external-ui: {{ default(global.clash.ui, "/root/.config/clash/ui") }}
 {% if default(request.clash.dns, "") == "1" %}
 dns:
   enabled: true
