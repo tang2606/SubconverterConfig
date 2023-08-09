@@ -105,7 +105,6 @@ Rule: ~
 
 {% endif %}
 
-
 {% if request.target == "surge" %}
 
 [General]
@@ -264,10 +263,11 @@ loglevel = notify
 interface = 127.0.0.1
 skip-proxy = 127.0.0.1, 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, 100.64.0.0/10, localhost, *.local
 ipv6 = false
-dns-server = system, 119.29.29.29, 108.177.125.188
+dns-server = system, 223.5.5.5
 exclude-simple-hostnames = true
 enhanced-mode-by-rule = true
 {% endif %}
+
 {% if request.target == "sssub" %}
 {
   "route": "bypass-lan-china",
