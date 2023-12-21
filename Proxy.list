@@ -36,7 +36,7 @@ DOMAIN-SUFFIX,cn88.net
 DOMAIN-SUFFIX,bygcloud.com
 DOMAIN-SUFFIX,deepsukebe.io
 DOMAIN-KEYWORD,oxycontin
-DOMAIN-KEYWORD,ytoo
+DOMAIN-KEYWORD,ytoo,extended-matching
 DOMAIN-SUFFIX,oxycontin.cc
 DOMAIN-SUFFIX,oxycontin.top
 DOMAIN-SUFFIX,bygcloud.com
@@ -60,8 +60,8 @@ DOMAIN-SUFFIX,tutuporn.com
 DOMAIN-SUFFIX,onlyfans.com
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-SUFFIX,www.python.org
-DOMAIN-KEYWORD,fbcdn
-DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,fbcdn,extended-matching
+DOMAIN-KEYWORD,facebook,extended-matching
 DOMAIN-SUFFIX,raw.githubusercontent.com
 DOMAIN-SUFFIX,graph.facebook.com
 DOMAIN-KEYWORD,bing
@@ -75,4 +75,5 @@ DOMAIN-SUFFIX,bootstrap.pypa.io
 DOMAIN-SUFFIX,lala.im
 DOMAIN-SUFFIX,www.v2ex.com
 DOMAIN-SUFFIX,localsend.org
-DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,openai,extended-matching
+DOMAIN-KEYWORD,dynu,extended-matching
