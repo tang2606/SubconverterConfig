@@ -88,4 +88,5 @@ DOMAIN-SUFFIX,localsend.org
 DOMAIN-SUFFIX,bootstrap.pypa.io
 DOMAIN-SUFFIX,lala.im
 DOMAIN-SUFFIX,www.v2ex.com
+DOMAIN-KEYWORD,proton.me,extended-matching
 DOMAIN-KEYWORD,rutracker,extended-matching
