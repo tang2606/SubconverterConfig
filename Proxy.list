@@ -90,3 +90,5 @@ DOMAIN-SUFFIX,lala.im
 DOMAIN-SUFFIX,www.v2ex.com
 DOMAIN-KEYWORD,proton.me,extended-matching
 DOMAIN-KEYWORD,rutracker,extended-matching
+DOMAIN-SUFFIX,cloudns.net
+
