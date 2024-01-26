@@ -1,4 +1,7 @@
 # > My Ruleset To Proxy
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,v2rayse.com
 DOMAIN-SUFFIX,u1s1.io
 DOMAIN-KEYWORD,w8ves
 DOMAIN-KEYWORD,arkdy
