@@ -1,0 +1,5 @@
+# > My Ruleset To REJECT
+payload:
+  - DOMAIN-SUFFIX,sublimetext.com
+  - DOMAIN-SUFFIX,sublimehq.com
+  - DOMAIN-KEYWORD,parallels                                                                                                                                                                                                 
