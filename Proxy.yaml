@@ -30,7 +30,6 @@ payload:
   - DOMAIN-KEYWORD,getzbra
   - HOST-SUFFIX,civitai.com
   - DOMAIN-SUFFIX,chariz.com
-  - DOMAIN-SUFFIX,raw.githubusercontent.com
   - DOMAIN-SUFFIX,tigisoftware.com
   - DOMAIN-SUFFIX,thebigboss.org
   - DOMAIN-SUFFIX,fast.com
@@ -45,7 +44,6 @@ payload:
   - DOMAIN-KEYWORD,ytoo,extended-matching
   - DOMAIN-SUFFIX,oxycontin.cc
   - DOMAIN-SUFFIX,oxycontin.top
-  - DOMAIN-SUFFIX,bygcloud.com
   - DOMAIN-SUFFIX,altstore.io
   - DOMAIN-KEYWORD,bygcloud
   - DOMAIN-SUFFIX,ihateregex.io
@@ -65,34 +63,22 @@ payload:
   - DOMAIN-SUFFIX,tutuporn.com
   - DOMAIN-SUFFIX,onlyfans.com
   - DOMAIN-KEYWORD,whatsapp
-  - DOMAIN-SUFFIX,www.python.org
   - DOMAIN-KEYWORD,fbcdn,extended-matching
   - DOMAIN-KEYWORD,facebook,extended-matching
-  - DOMAIN-SUFFIX,raw.githubusercontent.com
+  - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,graph.facebook.com
   - DOMAIN-KEYWORD,bing
   - DOMAIN-KEYWORD,stability
-  - DOMAIN-SUFFIX,www.dizhi.pro
   - DOMAIN-SUFFIX,stackoverflow.com
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-KEYWORD,zerotier
   - DOMAIN-KEYWORD,hjd2048
   - DOMAIN-SUFFIX,bootstrap.pypa.io
   - DOMAIN-SUFFIX,lala.im
-  - DOMAIN-SUFFIX,www.v2ex.com
   - DOMAIN-SUFFIX,localsend.org
-  - DOMAIN-KEYWORD,dynu,extended-matching
-  - DOMAIN-SUFFIX,ht8866.cc
-  - DOMAIN-SUFFIX,buliangvip.com
-  - DOMAIN-SUFFIX,tutuporn.com
-  - DOMAIN-SUFFIX,theporndude.com
-  - DOMAIN-SUFFIX,op.dllkids.xyz
   - DOMAIN-KEYWORD,yeyexiang
-  - DOMAIN-KEYWORD,stability
-  - DOMAIN-SUFFIX,localsend.org
-  - DOMAIN-SUFFIX,bootstrap.pypa.io
-  - DOMAIN-SUFFIX,lala.im
-  - DOMAIN-SUFFIX,www.v2ex.com
+  - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-KEYWORD,proton.me,extended-matching
   - DOMAIN-KEYWORD,rutracker,extended-matching
   - DOMAIN-SUFFIX,cloudns.net
+  - DOMAIN-SUFFIX,metacubex.one
