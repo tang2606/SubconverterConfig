@@ -1,8 +1,6 @@
 # > My Ruleset To Proxy
 payload:
   - DOMAIN-SUFFIX,nsloon.app
-  - DOMAIN-SUFFIX,docker.com
-  - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,v2rayse.com
   - DOMAIN-SUFFIX,u1s1.io
   - DOMAIN-KEYWORD,w8ves
