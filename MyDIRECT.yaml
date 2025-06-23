@@ -14,4 +14,5 @@ payload:
   - DOMAIN-SUFFIX,team.win.oa.com
   - DOMAIN-KEYWORD,xiaobi
   - DOMAIN-KEYWORD,wade
-
+  - IP-CIDR6,::1/128,DIRECT
+  - IP-CIDR6,2000::/3,DIRECT
