@@ -26,7 +26,7 @@ payload:
   - DOMAIN-KEYWORD,dubox
   - DOMAIN-KEYWORD,phncdn
   - DOMAIN-KEYWORD,getzbra
-  - HOST-SUFFIX,civitai.com
+  - DOMAIN-SUFFIX,civitai.com
   - DOMAIN-SUFFIX,chariz.com
   - DOMAIN-SUFFIX,tigisoftware.com
   - DOMAIN-SUFFIX,thebigboss.org
