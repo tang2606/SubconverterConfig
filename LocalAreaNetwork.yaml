@@ -9,3 +9,5 @@ payload:
   - IP-CIDR6,fc00::/7,no-resolve
   - IP-CIDR6,fe80::/10,no-resolve
   - IP-CIDR6,fd00::/8,no-resolve
+  - IP-CIDR6,240e::/16,DIRECT,no-resolve
+  - IP-CIDR6,2409:8000::/20,DIRECT,no-resolve

@@ -1,5 +1,7 @@
 # > My Ruleset To Proxy
 payload:
+  - DOMAIN-KEYWORD,gdstudio
+  - DOMAIN-SUFFIX,gdstudio.xyz
   - DOMAIN-SUFFIX,nsloon.app
   - DOMAIN-SUFFIX,v2rayse.com
   - DOMAIN-SUFFIX,u1s1.io
@@ -26,7 +28,7 @@ payload:
   - DOMAIN-KEYWORD,dubox
   - DOMAIN-KEYWORD,phncdn
   - DOMAIN-KEYWORD,getzbra
-  - HOST-SUFFIX,civitai.com
+  - DOMAIN-SUFFIX,civitai.com
   - DOMAIN-SUFFIX,chariz.com
   - DOMAIN-SUFFIX,tigisoftware.com
   - DOMAIN-SUFFIX,thebigboss.org

@@ -9,9 +9,12 @@ payload:
   - DOMAIN-SUFFIX,safebrowsing.googleapis.com
   - DOMAIN-SUFFIX,www.wadetest.top
   - DOMAIN-SUFFIX,wadedong.cn
+  - DOMAIN-SUFFIX,wade2025.icu
   - DOMAIN-SUFFIX,cs.cf-fis.com
   - DOMAIN-KEYWORD,cf-fis
   - DOMAIN-SUFFIX,team.win.oa.com
+  - DOMAIN-SUFFIX,sc3.ft07.com
   - DOMAIN-KEYWORD,xiaobi
   - DOMAIN-KEYWORD,wade
-
+  - IP-CIDR6,::1/128,DIRECT
+  - IP-CIDR6,2000::/3,DIRECT
