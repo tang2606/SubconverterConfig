@@ -16,5 +16,6 @@ payload:
   - DOMAIN-SUFFIX,sc3.ft07.com
   - DOMAIN-KEYWORD,xiaobi
   - DOMAIN-KEYWORD,wade
-  - IP-CIDR6,::1/128,DIRECT
-  - IP-CIDR6,2000::/3,DIRECT
+  - IP-CIDR6,::1/128
+  - IP-CIDR6,fc00::/7
+  
