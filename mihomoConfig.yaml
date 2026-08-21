@@ -666,8 +666,14 @@ rules:
   - DOMAIN,international-gfe.download.nvidia.com,直连
   - DOMAIN-SUFFIX,hdslb.com,直连
 
-  # 禁用国外 QUIC 流量
-  - AND,((NETWORK,UDP),(DST-PORT,443),(NOT,((OR,((RULE-SET,cn_additional),(RULE-SET,cn_ip,no-resolve)))))),REJECT
+  # 1. 先允许国内域名的 QUIC (假设你有 cn_additional 规则集)
+  - AND,((NETWORK,UDP),(DST-PORT,443),(RULE-SET,cn_additional)),DIRECT
+  
+  # 2. 再允许国内 IP 的 QUIC (假设你有 cn_ip 规则集)
+  - AND,((NETWORK,UDP),(DST-PORT,443),(RULE-SET,cn_ip,no-resolve)),DIRECT
+  
+  # 3. 最后，拒绝所有其他的 UDP 443 (即国外的 QUIC)
+  - AND,((NETWORK,UDP),(DST-PORT,443)),REJECT
 
   # 广告拦截
   - RULE-SET,adblockmihomolite,AdBlock
