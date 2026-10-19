@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN,mtalk.google.com
+  - DOMAIN,fcm.googleapis.com
+  - DOMAIN,firebaseinstallations.googleapis.com
